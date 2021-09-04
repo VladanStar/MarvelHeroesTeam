@@ -6,7 +6,7 @@ const Footer = () => {
     return (
         <Navbar className={"footer justify-content-center"}>
             <Navbar.Brand>
-                <span className={"name"}>&copy; 2021, by Sasa Andjelkovic, Nikola Colovic and Vladan Cupric</span>
+                <span className={"name"}>&copy; 2021, by Sasa Andjelkovic, Nikola Colovic, Dimitrije Pavkovic and Vladan Cupric</span>
             </Navbar.Brand>
 
         </Navbar>

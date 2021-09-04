@@ -4,7 +4,7 @@ import './SearchBar.css';
 const SearchBar = ({ searchHeroes }) => {
 
     const search = (event) => {
-        if (event.charCode === 13) {
+        if (event.charCode === 20) {
             const text = event.target.value;
             searchHeroes(text)
         }
