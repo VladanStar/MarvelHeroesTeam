@@ -7,7 +7,7 @@ const Footer = () => {
     return (
         <Navbar className={`${styles.footer} justify-content-center`}>
             <Navbar.Brand >
-                <span className={styles.name}>&copy; 2020, by Vladan Cupric, Nikola Colovic, Sasa Andjelkovic and Dimitrije Pavkovic</span>
+                <span className={styles.name}>&copy; 2020, by Sasa Andjelkovic, Nikola Colovic and Vladan Cupric</span>
             </Navbar.Brand>
         </Navbar>
     )
